@@ -5,10 +5,10 @@
   "unity": "2018.1",
   "unityRelease": "",
   "description": "Package with level design",
-  "keywords": ["Level","Tool"],
-  "dependencies":{},
-  "relatedPackages":{},
- "samples": [
+  "keywords": ["Level", "Tool"],
+  "dependencies": {},
+  "relatedPackages": {},
+  "samples": [
     {
       "displayName": "Demo Scene",
       "description": "A sample scene that demonstrates the features of this package.",
@@ -20,10 +20,11 @@
     "mail": "",
     "url": "https://github.com/GillesGerard/"
   },
-  "repository":{
-"type":"Git",
-"url":"https://github.com/GillesGerard/BallLevel.git",
-"footprint":"",
-"revision":""},
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/GillesGerard/BallLevel.git",
+    "footprint": "",
+    "revision": ""
+  },
   "category": "Script"
 }
